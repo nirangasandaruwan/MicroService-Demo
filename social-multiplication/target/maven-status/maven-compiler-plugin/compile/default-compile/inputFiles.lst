@@ -1,0 +1,17 @@
+/home/jackplus/Downloads/learn-microservices-w-spring-boot-master/My-MicroService-Project/social-multiplication/src/main/java/microservices/book/multiplication/service/MultiplicationServiceImpl.java
+/home/jackplus/Downloads/learn-microservices-w-spring-boot-master/My-MicroService-Project/social-multiplication/src/main/java/microservices/book/SocialMultiplicationApplication.java
+/home/jackplus/Downloads/learn-microservices-w-spring-boot-master/My-MicroService-Project/social-multiplication/src/main/java/microservices/book/multiplication/domain/User.java
+/home/jackplus/Downloads/learn-microservices-w-spring-boot-master/My-MicroService-Project/social-multiplication/src/main/java/microservices/book/multiplication/controller/MultiplicationController.java
+/home/jackplus/Downloads/learn-microservices-w-spring-boot-master/My-MicroService-Project/social-multiplication/src/main/java/microservices/book/multiplication/repository/MultiplicationRepository.java
+/home/jackplus/Downloads/learn-microservices-w-spring-boot-master/My-MicroService-Project/social-multiplication/src/main/java/microservices/book/multiplication/event/MultiplicationSolvedEvent.java
+/home/jackplus/Downloads/learn-microservices-w-spring-boot-master/My-MicroService-Project/social-multiplication/src/main/java/microservices/book/multiplication/domain/Multiplication.java
+/home/jackplus/Downloads/learn-microservices-w-spring-boot-master/My-MicroService-Project/social-multiplication/src/main/java/microservices/book/multiplication/service/RandomGeneratorService.java
+/home/jackplus/Downloads/learn-microservices-w-spring-boot-master/My-MicroService-Project/social-multiplication/src/main/java/microservices/book/multiplication/service/RandomGeneratorServiceImpl.java
+/home/jackplus/Downloads/learn-microservices-w-spring-boot-master/My-MicroService-Project/social-multiplication/src/main/java/microservices/book/multiplication/repository/MultiplicationResultAttemptRepository.java
+/home/jackplus/Downloads/learn-microservices-w-spring-boot-master/My-MicroService-Project/social-multiplication/src/main/java/microservices/book/multiplication/service/MultiplicationService.java
+/home/jackplus/Downloads/learn-microservices-w-spring-boot-master/My-MicroService-Project/social-multiplication/src/main/java/microservices/book/multiplication/event/EventDispatcher.java
+/home/jackplus/Downloads/learn-microservices-w-spring-boot-master/My-MicroService-Project/social-multiplication/src/main/java/microservices/book/multiplication/configuration/WebConfiguration.java
+/home/jackplus/Downloads/learn-microservices-w-spring-boot-master/My-MicroService-Project/social-multiplication/src/main/java/microservices/book/multiplication/domain/MultiplicationResultAttempt.java
+/home/jackplus/Downloads/learn-microservices-w-spring-boot-master/My-MicroService-Project/social-multiplication/src/main/java/microservices/book/multiplication/repository/UserRepository.java
+/home/jackplus/Downloads/learn-microservices-w-spring-boot-master/My-MicroService-Project/social-multiplication/src/main/java/microservices/book/multiplication/controller/MultiplicationResultAttemptController.java
+/home/jackplus/Downloads/learn-microservices-w-spring-boot-master/My-MicroService-Project/social-multiplication/src/main/java/microservices/book/multiplication/configuration/RabbitMQConfiguration.java
